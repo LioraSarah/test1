@@ -1,0 +1,4 @@
+[Project]
+Name=OpenU_C_Project
+Manager=KDevCMakeManager
+VersionControl=kdevgit
